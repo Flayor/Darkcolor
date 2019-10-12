@@ -12,5 +12,5 @@ Please note that for the moment, only C/C++ are fully supported by this color sc
 
 
 Screenshot:
-![screenshot of the darkcolor scheme on CLion](https://raw.githubusercontent.com/Flayor/Darkcolor/master/darkcolor_clion.png)
 
+<img src="https://raw.githubusercontent.com/Flayor/Darkcolor/master/darkcolor_clion.png" alt="screenshot of the darkcolor scheme on CLion" width="400"/>
